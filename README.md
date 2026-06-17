@@ -1,2 +1,2 @@
-# TMT-PD-Dataset
-Code and utilities for the TMT-PD eye movement dataset acquired during Trail Making Test paradigms in Parkinson's disease.
+# TMT-PD Code
+Utilities for loading and visualizing TMT-PD eye tracking dataset.
